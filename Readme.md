@@ -10,7 +10,7 @@ conda create --name <environment name> python=3.8
 conda activate <environment name>
 pip install -r requirements.txt
 ```
-In case you have difficulties with installation of specific version of tensorflow and other package use the following commands to install:
+In case you have difficulties with installation of specific version of required package use the following commands to install:
 ```bash
 pip install <package name>==x.x.x  --no-cache-dir
 ```
