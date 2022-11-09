@@ -1,5 +1,5 @@
 ## Exploratory Data Analysis
-In this project, Exploratory Data Analysis is performed using [Dataset](https://raw.githubusercontent.com/jenfly/opsd/master/opsd_germany_daily.csv). Pandas and Pytorch Prophet prediction tools are used for data processing and prediction.
+In this project, Exploratory Data Analysis is performed using [Dataset](https://raw.githubusercontent.com/jenfly/opsd/master/opsd_germany_daily.csv). Pandas and Pytorch Prophet are used for data processing and prediction.
 
 ### How to create project environment and install packages:
 
